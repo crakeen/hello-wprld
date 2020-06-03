@@ -1,2 +1,2 @@
-# hello-wprld
+# hello-world
 Just another repso
